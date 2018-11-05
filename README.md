@@ -1,4 +1,4 @@
-# lambda-git
+# lambda-git-2
 A git binary installed through NPM, for use with AWS Lambda.
 
 To use this, just require it, and call it. E.g:
