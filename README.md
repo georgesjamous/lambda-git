@@ -53,3 +53,5 @@ require("lambda-git")({
 ```
 
 You'll need to extract these values and ensure they're made available to whatever process you're using to run Git.
+
+Automagically inserted line
